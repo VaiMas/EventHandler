@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "eventhandler"
+version = "0.1.0"
+description = "Project with Event Propagator and Event Consumer services"
+authors = ["Vaida Maslinskiene"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+aiohttp = "^3.11.5"
+aiosqlite = "^0.20.0"
+httpx = "^0.27.2"
+aiofiles = "^24.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
