@@ -9,8 +9,6 @@ This project consists of two main components: an Event Propagator and a Consumer
 - [Configuration](#configuration)
 - [Running Tests](#running-tests)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
