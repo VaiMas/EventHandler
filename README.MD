@@ -84,3 +84,4 @@ To run the tests, use the following command:
     ├── pyproject.toml
     ├── README.md
     ├── Makefile
+    ├── poetry.lock
