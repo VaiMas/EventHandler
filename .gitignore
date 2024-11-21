@@ -1,0 +1,91 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folders
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+env/
+
+# flake8 configuration file
+.flake8
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+
+# Ignore database files
+*.db
+
+# Ignore log files
+*.log
+
+# Ignore test output
+test_output/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# mypy type checker files
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pylint files
+.pylint.d/
+
+# pytest cache
+.pytest_cache/
+
+# Sphinx documentation build
+docs/_build/
+
+# Pyright static type checker
+.pyright/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+
+# OS-generated files
+.DS_Store
+Thumbs.db
